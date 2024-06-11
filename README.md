@@ -1,0 +1,1 @@
+# Infrared_spectrum_wavelet_transform_denoising_method_based_on_super_Laplacian_gradient_prior
